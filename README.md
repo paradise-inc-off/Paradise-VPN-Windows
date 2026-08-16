@@ -1,4 +1,4 @@
-![Paradise VPN](assets/preview.png)
+![Paradise VPN](assets/preview-0.png)
 
 <p align="center">
 <a href="https://github.com/paradise-inc-off/Paradise-VPN-Windows/stargazers"><img src="https://img.shields.io/github/stars/paradise-inc-off/Paradise-VPN-Windows?style=for-the-badge&logo=github" alt="GitHub Stars"></a>
