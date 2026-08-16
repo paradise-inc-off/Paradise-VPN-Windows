@@ -17,7 +17,7 @@
 
 Официальный Windows-клиент **Paradise VPN** с нативным VPN-подключением, современным интерфейсом Windows 11 и управлением аккаунтом прямо из приложения.
 
-> Актуальная версия: **0.3.1**
+> Актуальная версия: **0.6.2**
 
 ---
 
@@ -130,21 +130,13 @@ Windows запрашивает права администратора толь�
 
 Чувствительные серверные ключи, платёжные секреты и административные данные не хранятся внутри установщика.
 
-### SHA-256 — Paradise VPN
-
-```text
-15DD6F808BF74E807F148B24A81CFB0B61021C1D7218AAF662A9C18D17626781
-```
-
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-Открыть%20отчёт-394EFF?style=for-the-badge\&logo=virustotal\&logoColor=white)](https://www.virustotal.com/gui/file/15dd6f808bf74e807f148b24a81cfb0b61021c1d7218aaf662a9c18d17626781)
-
 ---
 
 ## 📥 Установка
 
 1. Откройте [Releases](https://github.com/paradise-inc-off/Paradise-VPN-Windows/releases).
 2. Выберите последнюю версию.
-3. Скачайте файл `ParadiseVPN-Setup-0.3.1-x64.exe` из раздела **Assets**.
+3. Скачайте файл из раздела **Assets**.
 4. Запустите установщик.
 5. Завершите установку и откройте Paradise VPN.
 6. Войдите в аккаунт или зарегистрируйтесь.
