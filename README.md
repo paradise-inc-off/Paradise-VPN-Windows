@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/preview-0.png" alt="Paradise VPN" width="700">
+  <img src="assets/banner.png" alt="Paradise VPN" width="700">
 </p>
 
 <p align="center">
